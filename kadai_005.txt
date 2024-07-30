@@ -147,3 +147,5 @@ Date:   Fri Jul 26 22:32:36 2024 +0900
 hidakayuusuke@hidaka git_challenge % git log --oneline
 eaee4f6 (HEAD -> main) 日本語訳を追記
 6bba477 (origin/main) hello_world.txtを追加
+
+test
